@@ -1,0 +1,58 @@
+name: Report a problem
+description: Something doesn't work as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time! From the add-on (Bubble Player settings → **Report a problem**) the versions
+        below are filled in for you.
+  - type: input
+    id: version
+    attributes:
+      label: Bubble Player version
+      description: Bubble Player settings, at the bottom of the page.
+      placeholder: e.g. 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: firefox
+    attributes:
+      label: Firefox version
+      description: Firefox settings → About Firefox.
+      placeholder: e.g. Firefox 157 on Android 15
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone or tablet
+      placeholder: e.g. Pixel 8, Galaxy S23
+  - type: input
+    id: site
+    attributes:
+      label: Site
+      description: The page where it happens (a link, if you can share it).
+      placeholder: e.g. https://www.reddit.com/…
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to see it again
+      placeholder: |
+        1. Open …
+        2. Tap the bubble
+        3. …
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or a screen recording
+      description: Drag files in here. A short recording helps a lot with gesture problems.
