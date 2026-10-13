@@ -39,8 +39,8 @@ it and the video goes back to the page, right where it was.
 
 Hold-for-2× also works on videos right in the page, without opening the player.
 
-**Player:** auto-rotate to fit the video, a rotate button, an optional screen lock, playback speed menu
-(0.5×–3×), fit or fill, and loop. Muted feed videos get their sound back when you open them.
+**Player:** auto-rotate to fit the video, a rotate button, an optional screen lock, the site's subtitles,
+playback speed menu (0.5×–3×), fit or fill, and loop. Muted feed videos get their sound back when you open them.
 
 **Make it yours:** any accent color, the hold speed and side, the skip time, which buttons and gestures you want,
 and sites where it stays off.
