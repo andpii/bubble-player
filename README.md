@@ -42,8 +42,9 @@ Hold-for-2× also works on videos right in the page, without opening the player.
 **Player:** auto-rotate to fit the video, a rotate button, an optional screen lock, the site's subtitles,
 playback speed menu (0.5×–3×), fit or fill, and loop. Muted feed videos get their sound back when you open them.
 
-**Make it yours:** any accent color, the hold speed and side, the skip time, which buttons and gestures you want,
-and sites where it stays off.
+**Make it yours:** tap ⚙ in the player to pick the buttons, gestures, skip time and hold speed, right there; each
+change shows behind the menu. The settings page has the rest: any accent color, the bubble's size, and sites where
+it stays off.
 
 **Privacy:** collects nothing and sends nothing anywhere. No ads, no account, no tracking.
 
@@ -59,44 +60,52 @@ and sites where it stays off.
     <td align="center"><sub>A calm, simple fullscreen player</sub></td>
   </tr>
   <tr>
+    <td><img src="media/screenshots/13-menu.png" alt="Settings right in the player"></td>
     <td><img src="media/screenshots/3-hold.png" alt="Hold to play at 2×"></td>
-    <td><img src="media/screenshots/4-skip.png" alt="Double-tap to skip"></td>
   </tr>
   <tr>
+    <td align="center"><sub>Tap ⚙ in the player: buttons, gestures, skip time and speed, right there</sub></td>
     <td align="center"><sub>Hold to play at 2×</sub></td>
-    <td align="center"><sub>Double-tap to skip, swipe to seek</sub></td>
   </tr>
   <tr>
+    <td><img src="media/screenshots/4-skip.png" alt="Double-tap to skip"></td>
     <td><img src="media/screenshots/7-seek.png" alt="A preview while you seek"></td>
-    <td><img src="media/screenshots/5-volume.png" alt="Swipe for volume and brightness"></td>
   </tr>
   <tr>
+    <td align="center"><sub>Double-tap to skip, swipe to seek</sub></td>
     <td align="center"><sub>See where you're going: a preview while you seek</sub></td>
-    <td align="center"><sub>Swipe for volume and brightness</sub></td>
   </tr>
   <tr>
+    <td><img src="media/screenshots/5-volume.png" alt="Swipe for volume and brightness"></td>
     <td><img src="media/screenshots/8-brightness.png" alt="Swipe left to dim the picture"></td>
-    <td><img src="media/screenshots/11-page-hold.png" alt="Hold for 2× right in the page"></td>
   </tr>
   <tr>
+    <td align="center"><sub>Swipe for volume and brightness</sub></td>
     <td align="center"><sub>Swipe left to dim the picture</sub></td>
-    <td align="center"><sub>Hold for 2× right in the page, no player needed</sub></td>
   </tr>
   <tr>
+    <td><img src="media/screenshots/11-page-hold.png" alt="Hold for 2× right in the page"></td>
     <td><img src="media/screenshots/9-speed.png" alt="Pick any speed"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Hold for 2× right in the page, no player needed</sub></td>
+    <td align="center"><sub>Pick any speed (and an optional lock button)</sub></td>
+  </tr>
+  <tr>
     <td><img src="media/screenshots/10-fit.png" alt="Fit or fill the screen"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Pick any speed (optional speed, fit, loop and lock buttons)</sub></td>
-    <td align="center"><sub>Fit the whole picture, or fill the screen</sub></td>
-  </tr>
-  <tr>
     <td><img src="media/screenshots/6-settings.png" alt="Settings"></td>
-    <td><img src="media/screenshots/12-colors.png" alt="Any color you like"></td>
   </tr>
   <tr>
+    <td align="center"><sub>Fit the whole picture, or fill the screen</sub></td>
     <td align="center"><sub>Any accent color, your buttons, your gestures</sub></td>
+  </tr>
+  <tr>
+    <td><img src="media/screenshots/12-colors.png" alt="Any color you like"></td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center"><sub>Any color you like; turn it off on a site from the quick menu</sub></td>
+    <td></td>
   </tr>
 </table>
 
